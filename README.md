@@ -23,13 +23,14 @@
 ### Business question
 > Is surfing a dangerous sport ?
 
-> Are  these attacks fatal ?
+> Are these attacks fatal ?
 
 > What are the areas/countries that most attacks happened while surfing?
 
 ### Motivation
 
-- Sharks in fact do not intend to attack humans, the chances of being attacked by a shark is 1 in 5 million, says Katherine Maslenikov, manager of the UW Fish Collection at the Burke Museum. When they bite humans, they are most likely trying to figure out what they are So safe to say that we are not included in their diet.
+- Sharks in fact do not intend to attack humans, the chances of being attacked by a shark is 1 in 5 million, says Katherine Maslenikov, manager of the UW Fish Collection at the Burke Museum. When they bite humans, they are most likely trying to figure out what they are. So safe to say that we are not included in their diet. 
+- Surfing is a very popular sport in water, we will check if the attacks are more likely to be linked to this activity. 
 
 
 ## Process
@@ -115,8 +116,9 @@ Analising the the activities that had death related we can see that people kille
 
 ## Activity
 
- Although surfing has a low death by shark attack rate, most of the attacks happened while people were surfing.
- <br>
+ Although surfing has a low death by shark attack rate, most of the attacks happened while people were surfing. However, we cannot determine if surfing is a dangerous activity by only looking at this variable. According to <a href="https://sma.org.au/resources-advice/surfing/#:~:text=Surfing%20is%20regarded%20as%20a,of%20injuries%20are%20not%20serious.&text=Surfers%20most%20often%20sustain%20injuries%20to%20the%20leg%20(46%25).">SMA</a> Surfing has a very low injury rate (and that includes shark attacks ). Further more, as pointed before shark attacks are rare. 
+ </br>
+
  Using the library seaborn:</br>
 <p align="center"><img align="center" src="https://user-images.githubusercontent.com/85833899/135145231-de229003-725f-49e6-be86-556400649521.png", width="80%"><br></p>
  
